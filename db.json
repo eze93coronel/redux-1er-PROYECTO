@@ -1,0 +1,49 @@
+{
+  "productos": [
+    {
+      "nombre": "Rib ",
+      "precio": "235",
+      "id": 4
+    },
+    {
+      "nombre": "maria 200g",
+      "precio": "46",
+      "id": 7
+    },
+    {
+      "nombre": "jugo de manzana",
+      "precio": 12,
+      "id": 8
+    },
+    {
+      "nombre": "naranjas",
+      "precio": 21,
+      "id": 9
+    },
+    {
+      "nombre": "manzanas rosales",
+      "precio": 1766,
+      "id": 11
+    },
+    {
+      "nombre": "arreglar aire",
+      "precio": 16788,
+      "id": 17
+    },
+    {
+      "nombre": "o",
+      "precio": 1,
+      "id": 18
+    },
+    {
+      "nombre": "amoxicilina",
+      "precio": 689,
+      "id": 19
+    },
+    {
+      "nombre": "kk",
+      "precio": 27,
+      "id": 20
+    }
+  ]
+}
